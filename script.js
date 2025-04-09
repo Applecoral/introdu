@@ -1,3 +1,3 @@
-function sayHello() {
-  alert("Hello from Vercel!");
-}
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Badminton site is ready!");
+});
